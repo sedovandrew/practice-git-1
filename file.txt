@@ -1,3 +1,4 @@
 My first line in project
 Paris is the capital of France
 Kampala is the capital of Uganda
+Tokyo is the capital of Japan
